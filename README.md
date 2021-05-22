@@ -1,0 +1,2 @@
+# MusicDecryptor
+MusicDecryptor：用于将网易云音乐与QQ音乐下载的加密文件格式转换为普通格式。
